@@ -20,8 +20,8 @@ I build practical projects with clear structure, reproducible experiments, and w
 
 ## Tech stack
 
-Python, FastAPI, Flask, SQL, PostgreSQL, Docker, Git
-pandas, scikit-learn, CatBoost, PyTorch, TensorFlow, Streamlit
+Python, FastAPI, Flask, SQL, PostgreSQL, Docker, Git,
+pandas, scikit-learn, CatBoost, PyTorch, TensorFlow, Streamlit,
 Selenium, Jupyter, Telegram Bot API
 
 ## What I am looking for
