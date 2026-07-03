@@ -1,35 +1,41 @@
-<div align="center">
+# Hi, I'm Yaroslav Dyabkin 👋
 
-# Yarrriiik
+Junior Python Backend & ML Engineer focused on backend services, automation, and applied machine learning.
 
-Python Backend & ML Engineer focused on computer vision, tabular machine learning, and automation.
+I build practical projects with clear structure, reproducible experiments, and working demos.
 
-[Portfolio-ready projects](#selected-projects) · [Tech stack](#tech-stack) · [About](#about-me)
+## Featured projects
 
-</div>
+### ML Engineering & Applied ML
 
-## Selected projects
+* **immunorisk-studio** — ML pipeline and Streamlit app for medical risk prediction with CatBoost, CLI inference, and demo cases.
+* **human-activity-recognition-rnn** — wearable-sensor activity recognition with RNN, LSTM, GRU, and bidirectional recurrent models.
+* **skin-lesion-segmentation** — medical image segmentation with U-Net, encoder comparison, and Dice/IoU evaluation.
+* **food-transfer-learning** — food image classification with transfer learning, VGG16, fine-tuning, and inference demo.
 
-ML first, backend after.
+### Backend & Applied Engineering
 
-### 1. Computer Vision and ML
-
-- [skin-lesion-segmentation](https://github.com/Yarrriiik/skin-lesion-segmentation) - medical image segmentation with U-Net and encoder comparison.
-- [food-transfer-learning](https://github.com/Yarrriiik/food-transfer-learning) - image classification with transfer learning on Food5K and VGG16.
-- [sepsis-mini](https://github.com/Yarrriiik/sepsis-mini) - SOFA-score prediction from clinical and laboratory data with CatBoost.
-- [human-activity-recognition-rnn](https://github.com/Yarrriiik/human-activity-recognition-rnn) - wearable-sensor activity recognition with RNN, LSTM, GRU, and bidirectional models.
-
-### 2. Backend and applied engineering
-
-- [Secure_car_rental](https://github.com/Yarrriiik/Secure_car_rental) - Flask backend for car rental workflows, sessions, roles, and secure login flow.
-- [HackVTB](https://github.com/Yarrriiik/HackVTB) - VTB hackathon backend prototype for BPMN, sequence, and OpenAPI parsing.
+* **Secure_car_rental** — Flask + PostgreSQL + Docker web app with authentication, roles, and car booking workflows.
+* **HackVTB** — team backend prototype for BPMN, sequence diagram, and OpenAPI parsing with Spring Boot and PostgreSQL.
 
 ## Tech stack
 
-Python, FastAPI, Flask, SQL, Docker, Git, pandas, scikit-learn, CatBoost, PyTorch, TensorFlow, Selenium, Jupyter.
+Python, FastAPI, Flask, SQL, PostgreSQL, Docker, Git
+pandas, scikit-learn, CatBoost, PyTorch, TensorFlow, Streamlit
+Selenium, Jupyter, Telegram Bot API
+
+## What I am looking for
+
+Internship or Junior position in:
+
+* Python Backend Development
+* ML Engineering
+* Data/ML Automation
+* Applied AI Services
 
 ## About me
 
-- software engineering student;
-- building toward Python Backend, ML Engineering, and automation;
-- prefer practical projects with clear results and measurable value.
+* Software Engineering student
+* Building toward Python Backend, ML Engineering, and automation
+* Interested in production ML, backend services, clean project structure, and practical tools
+* Prefer projects with measurable results, reproducible experiments, and real user value
