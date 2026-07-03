@@ -1,4 +1,4 @@
-# Hi, I'm Yaroslav Dyabkin 👋
+# Yarrriiik
 
 Junior Python Backend & ML Engineer focused on backend services, automation, and applied machine learning.
 
