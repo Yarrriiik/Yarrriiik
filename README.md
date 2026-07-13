@@ -1,41 +1,72 @@
 # Yarrriiik
 
-Junior Python Backend & ML Engineer focused on backend services, automation, and applied machine learning.
+Python Backend & Applied AI Engineer with commercial team experience in AI
+video processing, asynchronous workloads, object storage, and observability for
+multi-service systems.
 
-I build practical projects with clear structure, reproducible experiments, and working demos.
+I build practical backend systems with Python, FastAPI, PostgreSQL, Redis,
+Docker, LLM APIs, media-processing tools, and reproducible monitoring.
 
-## Featured projects
+## Commercial Team Projects
 
-### ML Engineering & Applied ML
+### Clippex — AI video processing platform
 
-* **immunorisk-studio** — ML pipeline and Streamlit app for medical risk prediction with CatBoost, CLI inference, and demo cases.
-* **human-activity-recognition-rnn** — wearable-sensor activity recognition with RNN, LSTM, GRU, and bidirectional recurrent models.
-* **skin-lesion-segmentation** — medical image segmentation with U-Net, encoder comparison, and Dice/IoU evaluation.
-* **food-transfer-learning** — food image classification with transfer learning, VGG16, fine-tuning, and inference demo.
+Backend / Full-Stack Developer in a four-person team on a paid commercial
+freelance project that reached a client pilot. I was responsible for the core
+backend processing pipeline: FastAPI APIs, processing state in PostgreSQL and
+Redis, background jobs, long-transcript processing, object storage, and
+GPU/video-processing integrations. The pipeline was validated with
+feature-length source videos of up to approximately two hours.
 
-### Backend & Applied Engineering
+**Stack:** Python, FastAPI, PostgreSQL, Redis, Dramatiq, Docker, RunPod,
+S3-compatible storage, FFmpeg, Rust, React, TypeScript
 
-* **Secure_car_rental** — Flask + PostgreSQL + Docker web app with authentication, roles, and car booking workflows.
-* **HackVTB** — team backend prototype for BPMN, sequence diagram, and OpenAPI parsing with Spring Boot and PostgreSQL.
+[Read the Clippex case study](case-studies/clippex.md)
 
-## Tech stack
+### Multi-Service Platform Observability
 
-**Backend:** Python, FastAPI, Flask, SQL, PostgreSQL, Docker, Git  
-**ML/Data:** pandas, scikit-learn, CatBoost, PyTorch, TensorFlow, Streamlit  
-**Tools:** Selenium, Jupyter, Telegram Bot API
+Backend / Observability Contributor in a five-person team. I completed and
+delivered a monitoring workstream for the client platform, covering three
+application services or components and approximately eight Grafana dashboard
+views for administrative and operational workflows.
 
-## What I am looking for
+**Stack:** Python, Prometheus, Grafana, PostgreSQL, cAdvisor, Docker Compose
 
-Internship or Junior position in:
+[Read the observability case study](case-studies/platform-observability.md)
 
-* Python Backend Development
-* ML Engineering
-* Data/ML Automation
-* Applied AI Services
+> These are private commercial team repositories. The descriptions are
+> published with owner/client approval; source code, credentials, customer
+> data, and operational configuration remain private.
 
-## About me
+## Selected Public Projects
 
-* Software Engineering student
-* Building toward Python Backend, ML Engineering, and automation
-* Interested in production ML, backend services, clean project structure, and practical tools
-* Prefer projects with measurable results, reproducible experiments, and real user value
+- [**immunorisk-studio**](https://github.com/Yarrriiik/immunorisk-studio) —
+  privacy-hardened CatBoost inference system with FastAPI-ready artifact
+  contracts, Streamlit UI, synthetic demos, grouped splitting, tests, and CI.
+- [**HackVTB**](https://github.com/Dealtors/HackVTB) — team Spring Boot backend
+  for BPMN, sequence-diagram, and OpenAPI processing with PostgreSQL and CI.
+- [**Secure_car_rental**](https://github.com/Yarrriiik/Secure_car_rental) —
+  Flask/PostgreSQL application with bcrypt authentication, digest-only
+  sessions, role checks, booking-conflict protection, pytest, and Docker.
+
+## Tech Stack
+
+- **Backend:** Python, FastAPI, Flask, SQL, PostgreSQL, Redis, background workers
+- **Applied AI & media:** LLM APIs, RunPod, FFmpeg, S3, CatBoost, scikit-learn
+- **Observability:** Prometheus, Grafana, cAdvisor
+- **Frontend & systems:** React, TypeScript, Docker, Git; integration experience
+  with Rust and Spring Boot services
+
+## What I Am Looking For
+
+- Python Backend Engineering
+- Applied AI and AI-enabled backend systems
+- ML Engineering and inference services
+- Automation and data-processing platforms
+
+## About Me / Contacts
+
+Software Engineering student focused on useful products, reproducible systems,
+clear interfaces, and honest engineering trade-offs.
+
+Contact: [GitHub](https://github.com/Yarrriiik)
