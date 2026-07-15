@@ -38,11 +38,34 @@ views for administrative and operational workflows.
 > published with owner/client approval; source code, credentials, customer
 > data, and operational configuration remain private.
 
+## Research & ML Engineering Projects
+
+### Ark Polybot — Prediction-Market Research & Validation System
+
+**Role:** Research & Validation Engineer
+
+Collaborative research system for evaluating algorithmic strategies on
+prediction markets. I was responsible for data quality, backtesting,
+chronological validation, execution realism, causal audits, Python/Rust parity,
+and paper-shadow gates. A seemingly profitable strategy was rejected after a
+causal audit exposed hindsight-selection.
+
+**Technology:** Python · Rust · CatBoost/ML experiments · Backtesting · Causal
+validation · Git
+
+[Read the Ark Polybot case study](case-studies/ark-polybot.md)
+
+### Immunorisk Studio
+
+Privacy-hardened CatBoost inference system with FastAPI-ready artifact
+contracts, Streamlit UI, synthetic demos, grouped splitting, tests, and CI.
+
+**Stack:** Python, CatBoost, FastAPI, Streamlit, pytest, GitHub Actions
+
+[View Immunorisk Studio](https://github.com/Yarrriiik/immunorisk-studio)
+
 ## Selected Public Projects
 
-- [**immunorisk-studio**](https://github.com/Yarrriiik/immunorisk-studio) —
-  privacy-hardened CatBoost inference system with FastAPI-ready artifact
-  contracts, Streamlit UI, synthetic demos, grouped splitting, tests, and CI.
 - [**HackVTB**](https://github.com/Dealtors/HackVTB) — team Spring Boot backend
   for BPMN, sequence-diagram, and OpenAPI processing with PostgreSQL and CI.
 - [**Secure_car_rental**](https://github.com/Yarrriiik/Secure_car_rental) —
