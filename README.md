@@ -40,6 +40,28 @@ views for administrative and operational workflows.
 
 ## Research & ML Engineering Projects
 
+### ForestProof — Satellite-Based Forest Carbon Screening
+
+Team project by StackMinds for CosmoHackathon 2026, Green Investments track:
+**5th of 18 teams · 90.667/100 points**.
+
+A bilingual full-stack screening platform combining ESA CCI Biomass, Hansen
+Global Forest Change, Sentinel-2, and MODIS. It accounts for raster geometry,
+compares carbon-stock change with a baseline, propagates product uncertainty,
+assesses disturbance risk, and exports auditable calculation records. Its outputs
+are indicative potential units, not certified credits.
+
+**My contribution:** As part of the team, I contributed to the deterministic
+case-calculation core and scenario economics; fixed the custom-boundary
+baseline and positive regression path; improved timeouts for external evidence;
+and worked on the RU/EN application, API summaries, and public-facing polish.
+These areas are documented in the repository's commit history and tests.
+
+**Stack:** Python, NumPy, FastAPI, PostgreSQL, React, TypeScript, satellite
+rasters, Docker
+
+[View ForestProof](https://github.com/Evzett/ForestProof)
+
 ### Ark Polybot — Prediction-Market Research & Validation System
 
 **Role:** Research & Validation Engineer
@@ -76,6 +98,7 @@ contracts, Streamlit UI, synthetic demos, grouped splitting, tests, and CI.
 
 - **Backend:** Python, FastAPI, Flask, SQL, PostgreSQL, Redis, background workers
 - **Applied AI & media:** LLM APIs, RunPod, FFmpeg, S3, CatBoost, scikit-learn
+- **Geospatial data:** Remote sensing, raster processing, geometry-aware accounting
 - **Observability:** Prometheus, Grafana, cAdvisor
 - **Frontend & systems:** React, TypeScript, Docker, Git; integration experience
   with Rust and Spring Boot services
